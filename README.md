@@ -2,9 +2,9 @@
 
 * [Homepage](https://rubygems.org/gems/klient)
 * [Documentation](http://rubydoc.info/gems/klient/frames)
-* [Email](mailto:fredrik.eckardt at boardintelligence.co.uk)
+* [Email](mailto:cfeckardt@gmail.com)
 
-[![Build Status](https://secure.travis-ci.org//klient.svg?branch=master)](https://travis-ci.org//klient)
+[![Build Status](https://secure.travis-ci.org/cfeckardt/klient.svg?branch=master)](https://travis-ci.org/cfeckardt/klient)
 [![Code Climate GPA](https://codeclimate.com/github//klient/badges/gpa.svg)](https://codeclimate.com/github//klient)
 
 ## Description
