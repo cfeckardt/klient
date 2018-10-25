@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{TODO: Description}
   gem.license       = "BSD"
   gem.authors       = ["Fredrik Eckardt"]
-  gem.email         = "fredrik.eckardt@boardintelligence.co.uk"
+  gem.email         = "cfeckardt@gmail.com"
   gem.homepage      = "https://rubygems.org/gems/klient"
 
   gem.files         = `git ls-files`.split($/)
