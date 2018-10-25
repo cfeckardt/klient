@@ -5,7 +5,7 @@
 * [Email](mailto:cfeckardt@gmail.com)
 
 [![Build Status](https://secure.travis-ci.org/cfeckardt/klient.svg?branch=master)](https://travis-ci.org/cfeckardt/klient)
-[![Code Climate GPA](https://codeclimate.com/github//klient/badges/gpa.svg)](https://codeclimate.com/github//klient)
+[![Code Climate GPA](https://codeclimate.com/github/cfeckardt/klient/badges/gpa.svg)](https://codeclimate.com/github/cfeckardt/klient)
 
 ## Description
 
